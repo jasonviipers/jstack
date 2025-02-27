@@ -33,3 +33,6 @@ coverage/
 
 # npm cache
 .npm
+
+# bun
+bun.lockb
